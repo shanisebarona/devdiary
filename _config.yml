@@ -1,0 +1,26 @@
+# Site settings
+title:          "The diary of a dev.
+baseurl:        "/tale"
+url:            "https://devdiary.club"
+
+# Author
+author:
+  name:         Shanise Barona
+  url:          https://shanisebarona.com
+  email:        hi@shanisebarona.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5

@@ -1,6 +1,6 @@
 # Site settings
 title:          "The diary of a dev.
-baseurl:        "/tale"
+baseurl:        ""
 url:            "https://devdiary.club"
 
 # Author
